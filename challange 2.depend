@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554891457 source:f:\programming\new boston\challange 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
